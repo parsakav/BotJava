@@ -4,9 +4,9 @@ JAVA TELEGRAM BOT
 Run and Install :
 
 
-git clone https://github.com/parsakav/BotJava
+git clone https://github.com/parsakav/TeleBot
 
-cd BotJava
+cd TeleBot
 
 java -jar InlineBot-parsa.jar
 
