@@ -8,5 +8,5 @@ git clone https://github.com/parsakav/TeleBot
 
 cd TeleBot
 
-java -jar InlineBot-parsa.jar
+java -jar InlineBot-parsaV11.jar
 
